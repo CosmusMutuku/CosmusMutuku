@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cosmus Mutuku</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
-<img align="right" alt="coding" width="500" src="https://media.discordapp.net/attachments/998839599910637609/998839673503887471/1656486662954-1.jpg?width=429&height=406">
+<img align="centre" alt="coding" width="500" src="https://media.discordapp.net/attachments/998839599910637609/998839673503887471/1656486662954-1.jpg?width=429&height=406">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmusmutuku&label=Profile%20views&color=0e75b6&style=flat" alt="cosmusmutuku" /> </p>
 
