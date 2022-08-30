@@ -1,7 +1,7 @@
-[![masterHead](https://media.discordapp.net/attachments/998839599910637609/998839673503887471/1656486662954-1.jpg?width=429&height=406)
+[![masterHead](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
 <h1 align="center">Hi 👋, I'm Cosmus Mutuku</h1>
 <h3 align="center">A passionate data scientist from Kenya</h3>
-<img align="center" alt="coding" width="500" src="https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
+
 <img align="center" alt="coding" width="500" src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosmusmutuku&label=Profile%20views&color=0e75b6&style=flat" alt="cosmusmutuku" /> </p>
