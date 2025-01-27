@@ -1,4 +1,36 @@
-[![masterHead](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
+<div style="background: linear-gradient(90deg, #0072ff, #00c6ff); padding: 20px; text-align: center; color: white; font-size: 24px;">
+    <h1>Cosmus Mutuku</h1>
+    <p>Data Scientist | Analyst | Tech Enthusiast</p>
+</div>
+
+<div style="margin-top: 10px; text-align: center;">
+    <a href="https://github.com/CosmusMutuku" style="text-decoration: none; background: #0072ff; color: white; padding: 10px 15px; border-radius: 5px; margin: 5px;">GitHub</a>
+    <a href="https://linkedin.com/in/yourprofile" style="text-decoration: none; background: #00c6ff; color: white; padding: 10px 15px; border-radius: 5px; margin: 5px;">LinkedIn</a>
+</div>
+
+[![masterHead](https://images.unsplash.com/photo-1606761562380-3fc53c586623?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YSUyMHNjaWVudGlzdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60)](https://github.com/CosmusMutuku)
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<style>
+    body {
+        font-family: 'Poppins', sans-serif;
+    }
+</style>
+
+<style>
+    h1 {
+        animation: fadeIn 2s ease-in-out;
+    }
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+</style>
+
 <h1 align="center">Hi 👋, I'm Cosmus Kavithi Mutuku</h1>
 <h3 align="center">A passionate data scientist with expertise in architectural design and business analysis </h3>
 <h3 align="left">Experienced as;</h3>
