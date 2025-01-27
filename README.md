@@ -1,4 +1,4 @@
-[![masterHead](https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29tcHV0ZXIlMjBzY2llbmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
+[![masterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspiritai.com%2Fblogs%2Fai-student-blog%2Fdata-science-for-high-school-students&psig=AOvVaw0xjVW5xYbGzi5w7A-nPXoM&ust=1738070173209000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPikt5P-lYsDFQAAAAAdAAAAABAK)
 <h1 align="center">Hi 👋, I'm Cosmus Kavithi Mutuku</h1>
 <h3 align="center">A passionate data scientist with expertise in architectural design and business analysis </h3>
 <h3 align="left">Experienced as;</h3>
